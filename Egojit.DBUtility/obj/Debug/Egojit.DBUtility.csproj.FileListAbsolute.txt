@@ -1,0 +1,14 @@
+F:\网上商城\DTcms.DBUtility\obj\Debug\ResolveAssemblyReference.cache
+F:\网上商城\DTcms.DBUtility\bin\Debug\Egojit.DBUtility.dll
+F:\网上商城\DTcms.DBUtility\bin\Debug\Egojit.DBUtility.pdb
+F:\网上商城\DTcms.DBUtility\bin\Debug\Egojit.Common.dll
+F:\网上商城\DTcms.DBUtility\bin\Debug\Egojit.Common.pdb
+F:\网上商城\DTcms.DBUtility\obj\Debug\Egojit.DBUtility.dll
+F:\网上商城\DTcms.DBUtility\obj\Debug\Egojit.DBUtility.pdb
+F:\网上商城\Egojit.DBUtility\bin\Debug\Egojit.DBUtility.dll
+F:\网上商城\Egojit.DBUtility\bin\Debug\Egojit.DBUtility.pdb
+F:\网上商城\Egojit.DBUtility\bin\Debug\Egojit.Common.dll
+F:\网上商城\Egojit.DBUtility\bin\Debug\Egojit.Common.pdb
+F:\网上商城\Egojit.DBUtility\obj\Debug\ResolveAssemblyReference.cache
+F:\网上商城\Egojit.DBUtility\obj\Debug\Egojit.DBUtility.dll
+F:\网上商城\Egojit.DBUtility\obj\Debug\Egojit.DBUtility.pdb

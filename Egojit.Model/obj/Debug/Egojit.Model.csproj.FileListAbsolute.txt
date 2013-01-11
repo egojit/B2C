@@ -1,0 +1,14 @@
+F:\网上商城\DTcms.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\网上商城\DTcms.Model\bin\Debug\Egojit.Model.dll
+F:\网上商城\DTcms.Model\bin\Debug\Egojit.Model.pdb
+F:\网上商城\DTcms.Model\bin\Debug\Egojit.Common.dll
+F:\网上商城\DTcms.Model\bin\Debug\Egojit.Common.pdb
+F:\网上商城\DTcms.Model\obj\Debug\Egojit.Model.dll
+F:\网上商城\DTcms.Model\obj\Debug\Egojit.Model.pdb
+F:\网上商城\Egojit.Model\bin\Debug\Egojit.Model.dll
+F:\网上商城\Egojit.Model\bin\Debug\Egojit.Model.pdb
+F:\网上商城\Egojit.Model\bin\Debug\Egojit.Common.dll
+F:\网上商城\Egojit.Model\bin\Debug\Egojit.Common.pdb
+F:\网上商城\Egojit.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\网上商城\Egojit.Model\obj\Debug\Egojit.Model.dll
+F:\网上商城\Egojit.Model\obj\Debug\Egojit.Model.pdb
